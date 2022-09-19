@@ -1,4 +1,5 @@
 # Git Practice
+
 article link: https://www.techslang.com/will-programmers-become-obsolete-because-of-ai/
 
 as per the discussion topic that professor bloomberg introduced regarding ai assisted programming, i thought it would be interesting to look a little more into that. linked above is an article that details:
