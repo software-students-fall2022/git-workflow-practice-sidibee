@@ -12,3 +12,5 @@ currently ai can be used for various parts of programming, such as computer assi
 https://library.ahima.org/PdfView?oid=85287
 
 ^ also an interesting paper evaluating the performance of computer assisted coding (CDC).
+
+Fascinating article on the usage of AI in programming and whether AI can solely automate coding. It is exciting to think about all the possibilities and applications for when this technology is further developed.
